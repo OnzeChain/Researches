@@ -74,3 +74,9 @@ There are a lot of wallets available on the polygon Blockchain below I have link
 https://docs.polygon.technology/docs/faq/wallet-list/
 
 As you can see the most used wallets are available on Polygon.
+
+## Truffle suite
+
+https://trufflesuite.com/index.html
+
+https://www.youtube.com/watch?v=62f757RVEvU
