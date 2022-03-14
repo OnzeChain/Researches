@@ -3,13 +3,14 @@
 ## Preface
 
 The purpose of this document is to establish a baseline for our working processes which we could improve with time. It will be divided into different sections in order to be easier for the reader to follow. Key aspects and sections that this document will include are:
-• General working methodology
-• Communication and documentation
-• Meetings
-• Team roles
-• Reviewing of documents
-• Feedback
-• Team sanctions
+
+- General working methodology
+- Communication and documentation
+- Meetings
+- Team roles
+- Reviewing of documents
+- Feedback
+- Team sanctions
 
 ## General working methodology
 
@@ -34,8 +35,9 @@ Everyone in the group should give feedback to other people’s work no matter if
 ## Team sanctions
 
 In order to maintain our productivity and working processes, we will create a couple of sanctions for team members who abuse and slow down progress. If a person joins a meeting 10 minutes later or more than the agreed time without informing the team, he would receive one black dot. The first time a person collects 3 black dots, he will have to buy pizza for the team the next time we meet on site. If the person collects 3 more black dots, we will schedule a call with our coach and discuss what we could do to help that person and prevent more delays on our progress. Giving black dots to a team member will happen only after the majority of the team has agreed with the decision. Other ways a person could receive black dots are:
-• If he hasn’t done a task that has been assigned to them without letting others know.
-• If he doesn’t show up for a meeting without letting others know.
-• If he doesn’t take part of team activities like reviewing of documents and giving feedback to other people’s work.
-• If he altered other people’s work without informing them about it (fixing spelling and grammar mistakes doesn’t apply)
-• If he talks bad things to other people (criticism of work doesn’t apply)
+
+- If he hasn’t done a task that has been assigned to them without letting others know.
+- If he doesn’t show up for a meeting without letting others know.
+- If he doesn’t take part of team activities like reviewing of documents and giving feedback to other people’s work.
+- If he altered other people’s work without informing them about it (fixing spelling and grammar mistakes doesn’t apply)
+- If he talks bad things to other people (criticism of work doesn’t apply)
