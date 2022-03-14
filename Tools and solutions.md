@@ -36,7 +36,7 @@ Github: https://github.com/sushiswap
 
 While all three enable decentralized exchange, community governance, yield farming, and LP (liquidity provider) opportunities, only Sushi and PancakeSwap pay rewards back to token holders who stake their tokens.
 
-After looking into the code I discovered that they equal to each other, so 
+After looking into the code I discovered that they equal to each other.
 
 ### QuickSwap:
 
