@@ -17,3 +17,9 @@
 #### SMART goal
 
 > Fork an existing dex to build on. To acomplish this we will be fork a swap and understanding the code. We will be altering the front and backend. After we did this we will be making it ours by changing a couple of things. By the end of week 12 we have a working dex.          
+
+# Sprint 3
+
+#### SMART goal
+
+> Smart goal sprint 3
