@@ -20,7 +20,7 @@ Polkadot community is big and there are many existing resources for developing a
 
 Polkadot developers could utilize and deploy parachains on Kusama which is a scalable, multichain network for radical innovation. There are currently 73 projects built on Polkadot. Polkadot uses Parity Technologies' Substrate modular framework, which allows developers to select specific components that suit their application-specific chain best. Substrate dramatically reduces the time, energy and money required to create a new blockchain.
 
-## Pros and cons of binance
+## Pros and cons of Polkadot
 
 #### Pros :
 
