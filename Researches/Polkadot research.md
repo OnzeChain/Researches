@@ -4,6 +4,10 @@
 
 Polkadot is a protocol that connects blockchains — allowing value and data to be sent across previously incompatible networks (Bitcoin and Ethereum, for example). It’s also designed to be fast and scalable. It’s designed to facilitate an Internet where independent blockchains (parachains) can exchange information and transactions in a trustless way via the Polkadot relay chain.
 
+## What are specific features of Polygon infrastructure?
+
+Polkadot could handle around 1500 tps per parachain, however, it is limited to around 100 prachains. Block finality is 60 seconds for between parachains and up to 60 minutes in bridges. It is built using Rust and the Substrate framework.
+
 ## What are the costs of using Polkadot?
 Fees on the Polkadot Relay Chain are calculated based on three parameters:
 -A Weight fee
