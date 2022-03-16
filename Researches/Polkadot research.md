@@ -22,14 +22,14 @@ Polkadot developers could utilize and deploy parachains on Kusama which is a sca
 
 ## Pros and cons of binance
 
-Pros :
+#### Pros :
 
 - Reduced time, energy and money required to build and blockchain
 - Parity Technologies' Substrate modular framework offers developers the flexibility to select specific components that best suit their application-specific chain
 - Polkadot allows developers to launch chains and applications leveraging a shared security model, without having to worry about attracting enough miners or validators to secure their own chains.
 - Polkadot has already raised nearly $200 million, become a top ten coin by market cap, and started to be integrated with other networks, like Chainlink.
 
-Cons:
+#### Cons:
 
 - Long finality times with external blockchains
 - Limited number of parachain slots
