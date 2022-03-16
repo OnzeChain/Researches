@@ -3,6 +3,7 @@
 ## What is Polygon?
 
 Polygon is a “layer two” or “sidechain” scaling solution that runs alongside the Ethereum blockchain — allowing for speedy transactions and low fees. MATIC is the network’s native cryptocurrency, which is used for fees, staking, and more.
+![pol](https://user-images.githubusercontent.com/49690101/158577156-96d5cbd6-9bde-4da1-bbad-fd23f191ea11.png)
 
 ## What are specific features of Polygon infrastructure?
 
