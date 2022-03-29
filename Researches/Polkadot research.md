@@ -2,11 +2,11 @@
 
 ## What is Polkadot?
 
-Polkadot is a protocol that connects blockchains — allowing value and data to be sent across previously incompatible networks (Bitcoin and Ethereum, for example). It’s also designed to be fast and scalable. It’s designed to facilitate an Internet where independent blockchains (parachains) can exchange information and transactions in a trustless way via the Polkadot relay chain.
+Polkadot is a protocol that connects blockchains — allowing value and data to be sent across previously incompatible networks (Bitcoin and Ethereum, for example). It’s also designed to be fast and scalable. It’s designed to facilitate an Internet where independent blockchains (parachains) can exchange information and transactions in a trustless way via the Polkadot relay chain. DOT is the native token in the Polkadot ecosystem and it is used for staking, trading, rewards and other purposes. 
 
 ## What are specific features of Polygon infrastructure?
 
-Polkadot could handle around 1500 tps per parachain, however, it is limited to around 100 prachains. Block finality is 60 seconds for between parachains and up to 60 minutes in bridges. It is built using Rust and the Substrate framework.
+The main chain in Polkadot is called the relay chain and other blockchains(parachains) in the system use it to transmit and validate data. Polkadot could handle around 1500 tps per parachain, however, it is limited to around 100 parachains. Block finality is 60 seconds for between parachains and up to 60 minutes in bridges. It is built using Rust and the Substrate framework.
 
 ## What are the costs of using Polkadot?
 Fees on the Polkadot Relay Chain are calculated based on three parameters:
@@ -18,7 +18,7 @@ Average gas fees are around 20 - 50 cents for performing on-chain actions.
 
 ## How is the community of Polkadot?
 
-Polkadot community is big and there are many existing resources for developing and launching dApps on the network. However, there is some bad reputation in the community and insecurity surrounding the distribution of DOT supplies.
+Polkadot community is big and there are many existing resources for developing and launching dApps on the network. Their [website](https://polkadot.network/) is clean and does a good job of explaining the main concepts and terms used in the project. However, there is some bad reputation in the community and insecurity surrounding the distribution of DOT supplies.
 
 ## How is developing on Polkadot?
 
@@ -44,7 +44,7 @@ Polkadot developers could utilize and deploy parachains on Kusama which is a sca
 
 ## Conclusion
 
-Polkadot is built with the purpose to be the “Internet of blockchain”, allowing individual chains to operate on the same network, helping to solve the current problems of scalability, interoperability between different chains to make the application of crypto easier.
+Polkadot is built with the purpose to be the “Internet of blockchain”, allowing individual chains to operate on the same network, helping to solve the current problems of scalability, interoperability between different chains to make the applications of crypto easier.
 Because there is no perfect blockchain that can support all activities in the crypto world, Polkadot will help the development of chains become more specialized, creating an efficient network. Built by the people who know the best about crypto development, Polkadot's ability in the future is worth the trust.
 
 ## Sources
