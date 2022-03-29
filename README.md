@@ -16,7 +16,7 @@
 
 #### SMART goal
 
-> Fork an existing dex to build on. To accomplish this we will fork a swap and understand the code. This includes altering the front and back-end. After we do this we will be making it ours by making designs and testing these. When the designs are validated we will realize these designs on the front-end. By the end of week 12 we have a working dex.          
+> Fork an existing DEX to build on. To accomplish our goal we will fork the Front and Back-End of a swap and understand the code. That includes altering the code to ours. By the end of week 12 we have a working DEX with the basic functionalities such as swapping and adding liquidity.
 
 # Sprint 3
 
