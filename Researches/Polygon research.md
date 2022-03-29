@@ -11,15 +11,15 @@ Polygon throughtput is around 1K-10K TPS with a 2-second average block time. It 
 
 ## What are the costs of using Polygon?
 
-MATIC Gas Fees Remain Low at $0.1-0.5 for transactions as well as other on-chain actions.
+MATIC Gas Fees Remain Low at $0.1-0.5 for transactions as well as other on-chain actions. Many developers and companies switched from Ethereum to Polygon chain to utilize the low cost fees for their projects.
 
 ## How is the community of Polygon?
 
-Polygon has strong social media presence with more than 1.2 million Twitter followers. Other communication means could be found here: https://polygon.technology/community/
+Polygon has strong social media presence with more than 1.2 million Twitter followers. They have done a great job in their website describing the main features of Polygon to newcomers and the links to their most prominent work help to further explore their ecosystem. Other communication means could be found here: https://polygon.technology/community/
 
 ## How is developing on Polygon?
 
-If you're an Ethereum Developer, you're already a Polygon developer. Polygon team focuses on developing optimization solutions like ZK and Optimistic rollups which developers could utilize for their projects.
+If you're an Ethereum Developer, you're already a Polygon developer. Polygon team focuses on developing optimization solutions like ZK and Optimistic rollups which developers could utilize for their projects. Such solutions are not yet available, however, updates on them are happening every other week which might be a positive sign for the near future.
 Polygon tools could be found here: https://polygon.technology/developers
 
 ## Pros and cons of Polygon
@@ -44,7 +44,7 @@ Polygon tools could be found here: https://polygon.technology/developers
 
 ## Conclusion
 
-By looking at the workings and potentials of Polygon MATIC, it can be assumed that this platform has shown considerable success in solving the blockchain scalability issues. Furthermore, different blockchain developers can enjoy building their own decentralized network in the wake of provided features and tools from the polygon platform which lets developers access customization options. 
+By looking at the workings and potentials of Polygon MATIC, it can be assumed that this platform has shown considerable success in solving the blockchain scalability issues. Furthermore, different blockchain developers can enjoy building their own decentralized network in the wake of provided features and tools from the Polygon platform which lets developers access customization options. After some discussions in our group, we have decided that Polygon would be a suitable choice for building our dApps on as it is fast, low-cost, user-friendly and last but not least based on Ethereum ERC20 network. 
 
 ## Sources
 
